@@ -12,6 +12,7 @@
 > A 2D educational adventure game inspired by the life of Jose Rizal  
 ✅ Features: player movement, NPC interaction, item quests  
 🔗 GitHub Repo: (Coming Soon or Private)
+
 🎥 [Watch the Video] (https://github.com/user-attachments/assets/8b1a7603-6c17-4c04-a517-a0906b42e5ff)
 
 

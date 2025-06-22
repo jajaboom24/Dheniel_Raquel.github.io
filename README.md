@@ -16,8 +16,8 @@
 ---
 
 ## 📄 Resume  
-📥 [Download My Resume (PDF)]((https://github.com/user-attachments/files/20850497/resume-raquel.pdf)
-)
+📥 [Download My Resume ([resume-raquel.pdf](https://github.com/user-attachments/files/20850498/resume-raquel.pdf)
+PDF)]()
 
 ## 📄 Portfolio
 --- [Download My portfolio]([My Portfolio_ Raquel.pptx](https://github.com/user-attachments/files/20850473/My.Portfolio_.Raquel.pptx)

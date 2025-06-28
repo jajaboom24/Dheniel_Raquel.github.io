@@ -24,6 +24,9 @@
 ## 📄 Portfolio
 --- [Download My portfolio]([My Portfolio_ Raquel.pptx](https://github.com/user-attachments/files/20850473/My.Portfolio_.Raquel.pptx)
 
+## Booklet
+--- [Download My Portfolio Booklet for better view (https://simplebooklet.com/deepblueminimalistclientport13)
+
 ## ⚒️ Tools & Skills  
 - **Languages:** C#, HTML, CSS  
 - **Tools:** Unity, Git, ASP.NET (learning), Visual Studio  
